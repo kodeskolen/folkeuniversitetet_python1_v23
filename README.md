@@ -1,6 +1,6 @@
 # Nettkurs: Programmering med Python 1
 
-Velkommen til nettkurs *Programmering med Python 1*, arrangert av [Folkeuniversitetet](https://www.folkeuniversitetet.no/) og [Kodeskolen ved Simula](https://simulakodeskolen.no/).
+Velkommen til nettkurs *Programmering med Python 1*, arrangert av [Folkeuniversitetet](https://www.folkeuniversitetet.no/) og [Simula Learning](https://www.simulalearning.no/).
 
 Lenke til informasjon om kurset ved Folkeuniversitetets nettsider:
 * [https://www.folkeuniversitetet.no/Yrkesrettede-utdanninger-og-kurs/Datakurs/Programmering-med-Python-1](https://www.folkeuniversitetet.no/Yrkesrettede-utdanninger-og-kurs/Datakurs/Programmering-med-Python-1)
