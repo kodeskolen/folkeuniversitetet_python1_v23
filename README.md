@@ -39,6 +39,9 @@ Etterhvert som kurset går vil det dukke opp flere materialer, der vi vil dele o
 
 Programmering, som så mye annet, læres best av å *gjøres*. I løpet av kurset kommer vi til å vise frem mange ulike eksempler ved hjelp av live-koding. Det vil si at vi programmerer, mens dere enten ser på, eller koder med selv. I tillegg har vi laget noen oppgavesett dere kan bryne dere på. Disse vil dere få tid til å løse i løpet av kurset, og for best mulig læringsutbytte bør dere også prøve å finne en time eller to til å se på disse mellom øktene.
 
+Løsningsforslagene kommer et par dager etter at oppgavene er lagt ut for å oppfordre til å prøve mest på egenhånd.
+Oppgavene for dag 2 og 3 publiseres i forkant av de respektive dagene.
+
 Oppgavene er delt inn på de to hoveddagene:
 * Oppgaver for dag 1 finner du [her](dag1/oppgaver_dag1.pdf)
 * Løsningsforslag for oppgavene til dag 1 finner du [her](dag1/loesningsforslag_oppgaver_dag_1.pdf)
