@@ -25,11 +25,42 @@ Om du møter på problemer med å installere programvaren på forhånd kan du se
 
 ## Materiale
 
-Kommer snart
 
-## Oppgaver
+### Kompendium og jukselapp
 
-Kommer snart
+Komendiet for kurset finner du [her](kompendium.pdf). Dette kompendiet er egentlig laget for et litt større introduksjonskurs til Python - derfor dekker kompendiet alt vi går igjennom i dette kurset, og litt mer. Kompendiet er derfor med både som en ressurs du kan slå opp i temaene vi går igjennom, men også for å lære mer programmering på egenhånd.
+
+Vi har også laget en jukselapp, som inneholder noe av de viktigste konseptene fra kursdag 1, som dere kan finne [her](kodeskolens_jukselapp.pdf). Denne har vi laget fordi det er ganske mye nye konsepter dere skal lære på en gang, og mye å huske på. "Jukselappen" kan derfor gjøre det enklere å repetere konsepter fra dag 1 på de senere kursdagene.
+
+Etterhvert som kurset går vil det dukke opp flere materialer, der vi vil dele oppgaver, bonusoppgaver, løsningsforslag og eksempler som vi live-koder.
+
+### Oppgaver
+
+
+Programmering, som så mye annet, læres best av å *gjøres*. I løpet av kurset kommer vi til å vise frem mange ulike eksempler ved hjelp av live-koding. Det vil si at vi programmerer, mens dere enten ser på, eller koder med selv. I tillegg har vi laget noen oppgavesett dere kan bryne dere på. Disse vil dere få tid til å løse i løpet av kurset, og for best mulig læringsutbytte bør dere også prøve å finne en time eller to til å se på disse mellom øktene.
+
+Oppgavene er delt inn på de to hoveddagene:
+* Oppgaver for dag 1 finner du [her](dag1/oppgaver_dag1.pdf)
+* Løsningsforslag for oppgavene til dag 1 finner du [her](dag1/loesningsforslag_oppgaver_dag_1.pdf)
+* Oppgaver for dag 2 finner du ([her](dag2/oppgaver_dag2.pdf))
+* Løsningsforslag for oppgavene til dag 2 finner du [her](dag2/loesningsforslag_oppgaver_dag2.pdf)
+* Oppgaver for dag 3 finner du [her](dag3/oppgaver_dag3.pdf)
+* Løsningsforslag for oppgavene til dag 3 finner du [her](dag3/løsningsforslag_dag3.pdf)
+* Et hefte med bonusoppgaver finner du [her](./bonusoppgaver.pdf)
+* Løsningsforslag for bonusoppgaver finner du [her](./loesnings_forslag_bonusoppgaver.pdf)
+
+
+### Eksterne oppgaver
+Om du ønsker enda flere oppgaver å bryne deg på kan vi anbefale følgende nettsider:
+* https://www.codewars.com/
+* https://projecteuler.net/
+* https://oppgaver.kidsakoder.no/python/
+
+CodeWars er en nettside der du løser programmeringsoppgaver rett i nettleseren. Siden støtter mange programmeringsspråk, inkludert Python, og prøver å automatisk tilpasse oppgavene ditt ferdighetsnivå. Du må lage en (gratis) bruker for å bruke nettsiden.
+
+Project Euler er en samling matematikk-nøtter som er spesielt laget for å løses effektivt med programmering. Det er en veldig fin nettside om du er glad i matematikk og vil lære mer programmering. Du kan lese oppgavene uten bruker, men du må lage en (gratis) bruker for å sjekke fasiten og holde styr på hvilke oppgaver du har løst.
+
+Lær Kidsa Koding (kidsakoder.no) er en norsk nettside som er laget og drevet av frivillige. Oppgavene er utviklet på norsk og delt inn på ulike vansklighetsgrader, dog mest rettet mot barn men fine for voksne nybegynnere også ;) Passer perfekt for de som vil lære seg mer Python, eller bare leke seg med programmering. Du kan lese oppgavene uten å lage noen bruker.
 
 ## Ekstra Ressurser:
 
