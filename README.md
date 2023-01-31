@@ -44,7 +44,7 @@ Oppgavene for dag 2 og 3 publiseres i forkant av de respektive dagene.
 
 Oppgavene er delt inn på de to hoveddagene:
 * Oppgaver for dag 1 finner du [her](dag1/oppgaver_dag1.pdf)
-* Løsningsforslag for oppgavene til dag 1 finner du [her](dag1/loesningsforslag_oppgaver_dag_1.pdf)
+* Løsningsforslag for oppgavene til dag 1 finner du [her](dag1/loesningsforslag_dag1.pdf)
 * Oppgaver for dag 2 finner du ([her](dag2/oppgaver_dag2.pdf))
 * Løsningsforslag for oppgavene til dag 2 finner du [her](dag2/loesningsforslag_oppgaver_dag2.pdf)
 * Oppgaver for dag 3 finner du [her](dag3/oppgaver_dag3.pdf)
