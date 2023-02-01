@@ -9,7 +9,7 @@ saldo = 10000 # beløp på konto i kr
 rente = 4.5 # rente i prosent
 år = 0 #år
 
-while saldo < 2*saldo:
+while saldo < 15000:
     saldo = saldo + saldo*rente/100
     år = år + 1
     print(f"Etter {år} år er det {saldo:.2f} kr på kontoen.")

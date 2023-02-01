@@ -15,3 +15,25 @@ print("- Lister")
 print("- Mer om løkker")
 print("- Tekstbehandling")
 
+#Variabler:
+    # type: int, float, str, bool
+    # innholdet, verdien
+    # navn 
+
+a = 5
+print(type(a))
+
+
+b = int(15.4)
+
+print(b)
+print(type(b))
+
+if a > b:
+    print("Variabelen a er større enn b")
+elif a < b:
+    print("Variabelen b er større enn a")
+else:
+    print("a og b er helt like!")
+
+
